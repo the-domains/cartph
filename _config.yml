@@ -1,0 +1,14 @@
+layout_spectrum: 0.2954291
+typography_spectrum: 0.6861476
+color:
+  saturation: 0.9114899
+  lightness: 0.5223469
+  brandStrength: 1
+  brandColors:
+    - '#CFE2F0'
+    - '#B6C0BF'
+    - '#36342F'
+    - '#858984'
+    - '#575956'
+  rhythmicContrast: 0.1312464
+name: cartph
