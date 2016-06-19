@@ -1,14 +1,26 @@
-layout_spectrum: 0.2954291
-typography_spectrum: 0.6861476
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.9114899
-  lightness: 0.5223469
   brandStrength: 1
+  lightness: 0.5223469
   brandColors:
-    - '#CFE2F0'
-    - '#B6C0BF'
-    - '#36342F'
-    - '#858984'
-    - '#575956'
+    - '#FEFEFC'
+    - '#13181B'
+    - '#A2B0B1'
+    - '#344147'
+    - '#717B72'
   rhythmicContrast: 0.1312464
+typography_spectrum: 0.6861476
+layout_spectrum: 1
 name: cartph
